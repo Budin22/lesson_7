@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+p {
+    text-indent: 3em;
+}
+h1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+.card {
+    width: 1116px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cards {
+    padding-top: 79px;
+    background: rgba(238, 239, 241, 1);
+
+}
+.button {
+    font-size: 16px;
+    line-height: 26px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    background: rgba(52, 84, 122, 1);
+    width: 225px;
+    height: 65px;
+}
+.title {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-transform: uppercase;
+    margin-right: 42px;
+    margin-bottom: 160px;
+    display: inline-block;
+}
+.title.first {
+    font-weight: 500;
+    color: rgba(52, 84, 122, 1);
+}
+.title_top {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 60px;
+    margin-bottom: 41px;
+}
+.title.second {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    display: block;
+    text-transform: none;
+    margin: 0 0 42px 0;
+
+}
+.text.content {
+    width: 540px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text {
+    width: 540px;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 73px;
+    color: #727272;
+}
+.one {
+    background: rgba(238, 239, 241, 1);
+}
+.two {
+    background: rgba(52, 84, 122, 1);
+    padding-top: 100px;
+}
+.third {
+    background: rgba(249, 249, 249, 1);
+    padding-top: 112px;
+    padding-bottom: 89px;
+}
+.button {
+    margin-bottom: 141px;
+}
+.rect {
+    display: inline-block;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 24px;
+    color: #FFFFFF;
+    vertical-align: top;
+    width: 71px;
+}
+.rect.icon {
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+.text_icon {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-indent: 0;
+}
+.blok {
+    margin-right: 45px;
+    margin-bottom: 100px;
+    display: inline-block;
+    width: 141px;
+}
+.sec {
+    padding-top: 100px;
+}
+.slim {
+    margin-bottom: 46px;
+}
+.video {
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;        }
+.last {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+.fin {
+    padding-top: 50px;
+}
+.text_last {
+    padding-bottom: 47px;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+    text-indent: 0;
+}
